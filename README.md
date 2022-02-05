@@ -3,6 +3,9 @@ Scrapping Weather data and provide through API to UI side for UK regions based o
 
 REST-API-in-Django-using-Django-REST-Framework.
 
+Clone this Projects by using below link
+https://github.com/mahadikrushikesh/weather_data_scrapping.git
+
 Main Version
 Python3.7  
 Django 3.2
