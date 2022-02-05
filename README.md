@@ -1,8 +1,6 @@
 # weather_data_scrapping
 Scrapping Weather data and provide through API to UI side for UK regions based on user provided parameters
 
-
-# DistanceCalculationProject Python
 REST-API-in-Django-using-Django-REST-Framework.
 
 Main Version
